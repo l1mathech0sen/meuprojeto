@@ -1,1 +1,1 @@
-adm [lucas modsnpafnponfpoanfpfaf]
+amds = ['lucas' , and '1234']
